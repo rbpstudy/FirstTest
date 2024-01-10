@@ -6,6 +6,8 @@ public class ClsTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First");
+		
+		System.out.println("Second");
 
 	}
 
